@@ -1,2 +1,2 @@
 # calculator
-an example of a calculator done with basic python knowledge
+a simple calculator made with basic knowledge of Python and graphical interfaces
